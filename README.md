@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Hx-313/Hx-313/main/assets/ithx-logo.png" alt="ITHX — Act Ethically" width="520" />
+
+<br/><br/>
+
 **Hafiz Ali Abdullah**
 
 Mobile Application Developer · Flutter · Native Android & iOS · Node.js Backend
