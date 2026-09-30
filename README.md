@@ -1,15 +1,17 @@
 <div align="center">
 
-Hafiz Ali Abdullah
+**Hafiz Ali Abdullah**
 
 Mobile Application Developer · Flutter · Native Android & iOS · Node.js Backend
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-ready+mobile+products;Flutter+%E2%86%92+Native+Android+%E2%86%92+iOS+%E2%86%92+Node.js;Open-source+packages+%26+developer+tools;Performance+isn%27t+a+feature.+It%27s+the+foundation."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+mobile+apps+that+hold+together.;Flutter+%E2%86%92+Native+Android+%E2%86%92+iOS+%E2%86%92+Node.js;Going+lower-level+when+the+framework+gives+up.;Performance+isn%27t+a+feature.+It%27s+the+foundation."
     alt="Typing SVG"
   />
 </a>
+
+**I build mobile apps that hold together — even when the SDK doesn't want to. 🔧**
 
 <p>
   <a href="https://solithx.com">
@@ -27,29 +29,52 @@ Mobile Application Developer · Flutter · Native Android & iOS · Node.js Backe
 
 </div>
 
-## About
+Mobile app developer based in **Rawalpindi, Pakistan** — building production apps for Android and iOS, plus the Node.js backends behind them. Half my job is Flutter. The other half is whatever the SDK refuses to do.
 
-I'm a mobile application developer based in Rawalpindi, Pakistan. I build production-ready mobile applications, developer tools, and product systems with a strong focus on architecture, performance, reliability, and maintainability.
+---
 
-My main engineering stack is Flutter/Dart + Native Android (Java) + Native iOS, backed by Firebase and Node.js where the product needs server-side capabilities. I enjoy going below the framework layer when a package or SDK becomes the limitation — building custom parsers, renderers, native integrations, and lower-level solutions when the product demands it.
+### 🔭 Currently
 
-- 📱 **Mobile:** Flutter, Dart, Android, Java, iOS
-- 🧩 **Architecture:** Clean Architecture, BLoC/Cubit, Provider, Riverpod, GetIt
-- ⚙️ **Backend & services:** Node.js, Firebase, REST APIs
-- 💾 **Data:** SQLite, Drift, SharedPreferences, XML/JSON processing
-- 🔧 **Engineering:** Git, GitHub Actions, CI/CD, package development
-- 🎯 **Focus:** mobile products, SaaS, developer tooling, offline-first systems
+- Shipping **ReadMate** — a document reader/editor with custom PDF, DOCX, XLSX rendering engines
+- Maintaining open-source Flutter packages on [pub.dev](https://pub.dev/packages/flutter_local_smart_notifications)
+- Building **WOS** — a full-stack restaurant ordering & POS system
+- Going lower-level when abstraction becomes the bottleneck
 
-## What I Build
+### 💬 Ask Me About
 
-| Area | Focus |
-| --- | --- |
-| **Mobile Products** | Production Flutter apps, native Android + iOS integration, polished UI, offline workflows |
-| **Developer Tools** | Reusable Flutter packages, notification systems, ad abstractions, native modules |
-| **Product Systems** | SaaS products, dashboards, business workflows, Firebase/Node.js integrations |
-| **Performance Engineering** | Custom parsing/rendering, large-document handling, optimized local data processing |
+- **Flutter & Dart** — animations, rendering, platform channels
+- **Native Android (Java) & iOS** — when Flutter isn't enough
+- **State management** — BLoC/Cubit, Riverpod, Provider, GetIt
+- **Custom parsers & renderers** — the stuff packages usually do for you
+- **Node.js backends** — REST APIs, Firebase, MongoDB, SQLite
+- **Offline-first systems** — because the network isn't always there
 
-## Tech Stack
+### 🚀 Featured Work
+
+**📖 ReadMate** — Document Reader & Editor
+> Flutter · Dart · Native Android · Native iOS · Custom Rendering Engines
+
+All-in-one document reader/editor with PDF annotation, DOCX rendering, XLSX grids with 250+ formulas, EPUB, and encryption — built for offline-first, large-document performance.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-View_ReadMate-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.amabytes.alldocumentreader.office.viewer.filereader)
+
+**🔔 flutter_local_smart_notifications** — Local-first Flutter notification package
+> Instant · Scheduled · Recurring · Persistent · Actionable
+
+[![Pub.dev](https://img.shields.io/pub/v/flutter_local_smart_notifications?style=for-the-badge&logo=dart&label=pub.dev)](https://pub.dev/packages/flutter_local_smart_notifications)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hx-313/flutter_local_smart_notifications)
+
+**📢 smart_google_ads** — A cleaner abstraction for Google Mobile Ads in Flutter
+> Less boilerplate · Easier to manage · Production-ready
+
+[![Pub.dev](https://img.shields.io/pub/v/smart_google_ads?style=for-the-badge&logo=dart&label=pub.dev)](https://pub.dev/packages/smart_google_ads)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hx-313/smart-google-ads)
+
+<p align="center">
+  More production work — including <strong>WOS</strong> (restaurant operating system) and <strong>Dietify</strong> — at <a href="https://solithx.com/projects"><strong>solithx.com/projects</strong></a>
+</p>
+
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -57,59 +82,56 @@ My main engineering stack is Flutter/Dart + Native Android (Java) + Native iOS, 
 
 </div>
 
-## Featured Engineering Work
+### 📊 GitHub Activity
 
-### ReadMate — Document Reader & Editor
+<div align="center">
 
-**Flutter · Dart · Native Android · Native iOS · Custom Rendering Engines**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hx-313&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" />
 
-An all-in-one document reader/editor focused on offline capability, performance, and format coverage.
+<img height="170" src="https://streak-stats.demolab.com?user=Hx-313&theme=transparent&hide_border=true" alt="GitHub streak" />
 
-- PDF reading, annotation, editing, creation, and encryption
-- DOCX rendering/editing with custom parsing and page-breaking systems
-- XLSX/XLS/CSV workflow with direct Archive + XML manipulation
-- Custom spreadsheet renderer/grid with 250+ formulas
-- EPUB and multiple text/document formats
-- Large-document performance work across Flutter and native layers
+</div>
 
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.amabytes.alldocumentreader.office.viewer.filereader">
-    <img src="https://img.shields.io/badge/Google_Play-View_ReadMate-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="ReadMate on Google Play" />
-  </a>
-</p>
+### 🏆 Trophies
 
-### flutter_local_smart_notifications
+<div align="center">
 
-A local-first Flutter notification package for production reminder workflows.
+<img src="https://github-profile-trophy.vercel.app/?username=Hx-313&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
 
-Instant, scheduled, recurring, persistent, and actionable notifications — including Android Done / Snooze actions, exact-timing permission awareness, and typed tap/action routing.
+</div>
 
-<p>
-  <a href="https://pub.dev/packages/flutter_local_smart_notifications">
-    <img src="https://img.shields.io/pub/v/flutter_local_smart_notifications?style=for-the-badge&logo=dart&label=pub.dev" alt="Pub.dev version" />
-  </a>
-  <a href="https://github.com/Hx-313/flutter_local_smart_notifications">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
 
-### smart_google_ads
+<div align="center">
 
-A cleaner abstraction for integrating and managing Google Mobile Ads in Flutter applications.
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 
-Built to reduce repeated ad boilerplate and make ad integration easier to manage across production apps.
+</div>
 
-<p>
-  <a href="https://pub.dev/packages/smart_google_ads">
-    <img src="https://img.shields.io/pub/v/smart_google_ads?style=for-the-badge&logo=dart&label=pub.dev" alt="Pub.dev version" />
-  </a>
-  <a href="https://github.com/Hx-313/smart-google-ads">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
 
-<p align="center">
-  More production work — including WOS (restaurant operating system) and Dietify — at <a href="https://solithx.com/projects"><strong>solithx.com/projects</strong></a>
-</p>
+<div align="center">
 
-## Engineering Approach
+<img src="https://github-contributor-stats.vercel.app/api?username=Hx-313&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+
+</div>
+
+### 🌐 Connect
+
+<div align="center">
+
+<a href="https://solithx.com">
+  <img src="https://img.shields.io/badge/solithx.com-Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/hafiz-ali-abdullah-660429207">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Hx-313">
+  <img src="https://img.shields.io/badge/GitHub-Hx--313-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+**Build deliberately. Ship responsibly. ACT ETHICALLY.**
+
+</div>
